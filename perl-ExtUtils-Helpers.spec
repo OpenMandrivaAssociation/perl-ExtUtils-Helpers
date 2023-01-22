@@ -13,6 +13,8 @@ BuildRequires:	perl(File::Spec)
 BuildRequires:	perl(Test)
 BuildRequires:	perl(Text::ParseWords)
 BuildRequires:	perl-devel
+# For make test
+BuildRequires:	perl(Test::More)
 BuildArch:	noarch
 
 %description
