@@ -1,7 +1,7 @@
 %define upstream_name  	    ExtUtils-Helpers
 
 Name:		perl-%{upstream_name}
-Version:	0.027
+Version:	0.028
 Release:	1
 Summary:	Various portability utilities for module builders
 License:	GPL or Artistic
