@@ -6,7 +6,7 @@ Release:	1
 Summary:	Various portability utilities for module builders
 License:	GPL or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}
+Url:		https://search.cpan.org/dist/%{upstream_name}
 Source:		http://www.cpan.org/modules/by-module/ExtUtils/%{upstream_name}-%{version}.tar.gz
 BuildRequires:	perl(File::Basename)
 BuildRequires:	perl(File::Spec)
